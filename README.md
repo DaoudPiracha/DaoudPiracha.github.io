@@ -1,2 +1,3 @@
 # DaoudPiracha.github.io
-personal website repo
+Hi. I'm Daoud. I write <code>. 
+This is my personal website.
