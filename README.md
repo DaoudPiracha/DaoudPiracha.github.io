@@ -1,3 +1,2 @@
-# DaoudPiracha.github.io
-Hi. I'm Daoud. I write code. 
-This is my personal website.
+# Daoud Piracha
+Hi. I'm Daoud. I solve problems in Data Science and AI.
